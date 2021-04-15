@@ -1,5 +1,11 @@
 # Changelog
 
+## 3.0.13 (2021APR09)
+
+* Code structure refactor and clean up.
+* Initial migration of identified code to the new `SharpHound3.Common` project
+* Enhance `docfx` integration
+
 ## 3.0.12 (2021MAR26)
 
 ### Milestone(s)
